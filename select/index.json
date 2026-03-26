@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "Bull’s Eye",
+  "base_artist": "ナノ",
+  "createdAt": "2026-03-26T13:08:08.030021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bull's Eye",
+      "artist": "Pretty Maids",
+      "has_synced": true,
+      "path": "select/01_Bull's_Eye_Pretty_Maids.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bull’s Eye",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/02_Bull’s_Eye_nano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bull's Eye",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/03_Bull's_Eye_nano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bull’s Eye",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/04_Bull’s_Eye_NANO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bull's Eye",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/05_Bull's_Eye_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bull's Eye",
+      "artist": "The Baseballs",
+      "has_synced": false,
+      "path": "select/06_Bull's_Eye_The_Baseballs.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bull's Eye",
+      "artist": "BTOB 4U",
+      "has_synced": true,
+      "path": "select/07_Bull's_Eye_BTOB_4U.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bulls - Eye",
+      "artist": "Santo & Johnny",
+      "has_synced": false,
+      "path": "select/08_Bulls_-_Eye_Santo_&_Johnny.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bulls Eye",
+      "artist": "Tarsem Jassar",
+      "has_synced": false,
+      "path": "select/09_Bulls_Eye_Tarsem_Jassar.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bull’s Eye",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/10_Bull’s_Eye_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bull's Eye",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/11_Bull's_Eye_NANO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bingo Bull's-eye",
+      "artist": "Chad Brock",
+      "has_synced": true,
+      "path": "select/12_Bingo_Bull's-eye_Chad_Brock.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bull's Eye",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/13_Bull's_Eye_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bull's Eye",
+      "artist": "Pretty Maids",
+      "has_synced": true,
+      "path": "select/14_Bull's_Eye_Pretty_Maids.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Bulls",
+      "artist": "Marc Almond",
+      "has_synced": false,
+      "path": "select/15_The_Bulls_Marc_Almond.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bulls On Parade",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/16_Bulls_On_Parade_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bull's Anthem",
+      "artist": "Sick Of It All",
+      "has_synced": false,
+      "path": "select/17_Bull's_Anthem_Sick_Of_It_All.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bulls",
+      "artist": "All Them Witches",
+      "has_synced": false,
+      "path": "select/18_Bulls_All_Them_Witches.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bulls In The Bronx",
+      "artist": "Pierce the Veil",
+      "has_synced": true,
+      "path": "select/19_Bulls_In_The_Bronx_Pierce_the_Veil.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "02 Bulls On Parade",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/20_02_Bulls_On_Parade_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Bulls on Parade",
+      "artist": "Rage Against the Machine",
+      "has_synced": true,
+      "path": "select/21_Bulls_on_Parade_Rage_Against_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "F*** Da Bulls***",
+      "artist": "Young Money feat. Birdman",
+      "has_synced": true,
+      "path": "select/22_F__Da_Bulls_Young_Money_feat._Birdman.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Bulls On Parade [Explicit]",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/23_Bulls_On_Parade_[Explicit]_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Running with the Bulls",
+      "artist": "Fozzy",
+      "has_synced": true,
+      "path": "select/24_Running_with_the_Bulls_Fozzy.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Bulls Make Money, Bears Make Money, Pigs Get Slaughtered",
+      "artist": "Chiodos",
+      "has_synced": true,
+      "path": "select/25_Bulls_Make_Money,_Bears_Make_Money,_Pigs_Get_Slaughtered_Chiodos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bull's Eye",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_Bull's_Eye_ナノ.txt"
+    }
+  ]
+}
